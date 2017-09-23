@@ -95,13 +95,15 @@
 		font-style:italic;
 	}
 	a.navbar-brand {
-		background: url(images/logo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+		background: url(images/menulogo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
 		color: #222222 !important;
 		font-size: 35px;
 		font-weight: 400;
 		margin-top: 0;
 		padding-left: 55px !important;
+		padding-right: 55px !important;
 		line-height: 36px;
+		height: 60px!important;
 	}
 	a.remove{
 		display:block;
@@ -3643,7 +3645,7 @@
 	#header-style-1 .navbar-default .navbar-nav > .open > a:hover,
 	#header-style-1 .navbar-default .navbar-nav > .open > a:focus,
 	#topbar .social-icons span a:hover {
-		background-color:#f7c221;
+		background-color:#ff7921;
 	}
 	.flex-direction-nav a,
 	.rsUni .rsThumb.rsNavSelected .thumbIco,
@@ -3841,7 +3843,7 @@
 		position:absolute;
 		left:50%; /* centers the loading animation horizontally one the screen */
 		top:50%; /* centers the loading animation vertically one the screen */
-		background-image:url(images/loading.gif); /* path to your loading animation */
+		background-image:url(images/logoblack.png); /* path to your loading animation */
 		background-repeat:no-repeat;
 		background-position:center;
 		margin:-100px 0 0 -100px; /* is width and height divided by two */
