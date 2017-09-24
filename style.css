@@ -3495,14 +3495,14 @@
 	.magnifier .btn-default:active,
 	.service-icon-circle,
 	.general-title hr {
-		border-color:#f7c221;
+		border-color:#ff7921;
 	}
 	#header-style-1 .dropdown-menu,
 	#header-style-1 .yamm .dropdown.yamm-fw .dropdown-menu {
 		border-top-color: #f7c221 !important;
 	}
 	#three-parallax .testimonial h3 {
-		color:#f7c221 !important;
+		color:#ff7921 !important;
 	}
 	.blog_button,
 	.shop_title_slider span,
@@ -3545,12 +3545,12 @@
 	.group_box i,
 	#topbar .callus i,
 	#topbar .topbar-cart i {
-		color:#f7c221;
+		color:#ff7921;
 	}
 	.timeline-badge.danger,
 	.flex-control-paging li a.flex-active,
 	.tparrows:hover {
-		background-color:#f7c221 !important;
+		background-color:#ff7921 !important;
 	}
 	.demo_changer .demo-icon,
 	.group_box:hover .circle,
@@ -3650,7 +3650,7 @@
 	.flex-direction-nav a,
 	.rsUni .rsThumb.rsNavSelected .thumbIco,
 	.custom-overlay {
-		background-color:rgba(247,194,33,0.7);
+		background-color:rgba(255,121,33,0.7);
 	}
 	#tabbed_widget .nav-tabs > li.active > a, 
 	#tabbed_widget .nav-tabs > li.active > a:hover,
