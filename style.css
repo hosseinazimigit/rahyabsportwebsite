@@ -132,7 +132,7 @@
 		text-align:left !important;
 	}
 	mark {
-		padding: 6px 12px;
+		padding: 0 10px;
 	}
 	section::before,
 	section::after {
