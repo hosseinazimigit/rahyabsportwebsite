@@ -73,5 +73,10 @@
     text-align: center;
 }
 #footer-style-1 .footer-logo {
-    width: 90%;
+    width: 200px;
+}
+@media (max-width: 768px) {
+    #footer-style-1 .footer-logo {
+        width: 90%;
+    }
 }
