@@ -97,3 +97,7 @@
         width: 46%;
     }
 }
+
+#aboutslider img {
+    margin: 0 auto;
+}
