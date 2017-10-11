@@ -106,3 +106,7 @@
 #content {
     padding-bottom: 0;
 }
+
+.shop_item .entry img {
+    margin: 0 auto;
+}
