@@ -1,0 +1,31 @@
+/**** Header ****/
+@media (min-width: 768px) {
+    .navbar-collapse.collapse {
+        display: inline-block !important;
+    }
+    #header-style-1.affix-top .yamm img {
+        width: 95%;
+        margin-bottom: 26px;
+    }
+}
+@media (max-width: 768px) {
+    .navbar-header {
+        display: inline-block;
+        float: right;
+    }
+    #header-style-1 .yamm img {
+        margin-top: 4px;
+    }
+    #header-style-1.affix-top {
+        padding: 10px 0;
+    }
+    #header-style-1.affix-top .yamm img {
+        width: 80%;
+    }
+    .navbar-collapse.collapse.in {
+        margin-top: 12px;
+    }
+    .navbar-collapse.collapsing {
+        margin-top: 12px;
+    }
+}
