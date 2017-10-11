@@ -1,3 +1,12 @@
+.padding-bottom {
+    padding-bottom: 30px;
+}
+
+/**** Slider ****/
+.tp-bullets.simplebullets .bullet.selected {
+    border-color: #ff7921 !important;
+}
+
 /**** Header ****/
 @media (min-width: 768px) {
     .navbar-collapse.collapse {
@@ -28,4 +37,41 @@
     .navbar-collapse.collapsing {
         margin-top: 12px;
     }
+}
+
+/**** SHOP BANNER ****/
+@media (min-width: 992px) and (max-width: 1200px) {
+    .shop-banner .title {
+        top: 22%;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+    .shop-banner .title {
+        top: 18%;
+    }
+    .shop-banner .title h1 {
+        font-size: 32px;
+    }
+}
+@media (max-width: 768px) {
+    .shop-banner .title {
+        top: 16%;
+    }
+    .shop-banner .title h1 {
+        font-size: 26px;
+    }
+}
+
+/**** Clients ****/
+.clients .client-wrap img {
+    height: 100px !important;
+    width: 200px !important;
+}
+
+/**** Footer ****/
+#footer-style-1 .logo-widget {
+    text-align: center;
+}
+#footer-style-1 .footer-logo {
+    width: 90%;
 }
