@@ -98,6 +98,11 @@
     }
 }
 
+/**** SMALL BS STUFF ****/
 #aboutslider img {
     margin: 0 auto;
+}
+
+#content {
+    padding-bottom: 0;
 }
