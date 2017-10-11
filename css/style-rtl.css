@@ -40,3 +40,26 @@ body{
 p,.tp-caption,h1,h2,h3,h4,h5,h6{
     font-family: IRANSans!important;
 }
+.rtl {
+    text-align: right !important;
+}
+.float-right {
+    float: right !important;
+}
+
+@media (min-width: 768px) {
+    .header-rtl .navbar-collapse {
+        float: right;
+    }
+    .header-rtl .navbar-collapse li {
+        float: right;
+        text-align: right !important;
+    }
+}
+.header-rtl .navbar-collapse li {
+    text-align: right !important;
+}
+#accordion-second .accordion-heading .accordion-toggle > em {
+    margin-left: 10px;
+    margin-right: 0;
+}
