@@ -76,3 +76,6 @@ p,.tp-caption,h1,h2,h3,h4,h5,h6{
 .tabbable .nav-tabs {
     padding-right: 0;
 }
+.blog-carousel-meta span i, .blog-carousel-meta span {
+    padding-right: 0;
+}
