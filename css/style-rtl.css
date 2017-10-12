@@ -69,3 +69,7 @@ p,.tp-caption,h1,h2,h3,h4,h5,h6{
 .panel-title:after {
     float: left !important;
 }
+#accordion-first .accordion-heading .accordion-toggle > em {
+    margin-left: 10px;
+    margin-right: 0;
+}
