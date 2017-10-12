@@ -95,3 +95,7 @@ blockquote {
     border-color: #ff7921;
     border-left: none;
 }
+#custom_tab .tab-content ul, #shop_features .tab-content ul {
+    padding-left: 0;
+    padding-right: 20px;
+}
