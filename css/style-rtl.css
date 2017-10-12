@@ -46,6 +46,9 @@ p,.tp-caption,h1,h2,h3,h4,h5,h6{
 .float-right {
     float: right !important;
 }
+.direction-rtl {
+    direction: rtl;
+}
 
 @media (min-width: 768px) {
     .header-rtl .navbar-collapse {
