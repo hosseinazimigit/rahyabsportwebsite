@@ -46,6 +46,9 @@ p,.tp-caption,h1,h2,h3,h4,h5,h6{
 .float-right {
     float: right !important;
 }
+.float-left {
+    float: left !important;
+}
 .direction-rtl {
     direction: rtl;
 }
@@ -78,4 +81,17 @@ p,.tp-caption,h1,h2,h3,h4,h5,h6{
 }
 .blog-carousel-meta span i, .blog-carousel-meta span {
     padding-right: 0;
+}
+.comment-reply {
+    float: initial;
+}
+.comment-avatar {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+blockquote {
+    border-right: 5px solid #eeeeee;
+    border-color: #ff7921;
+    border-left: none;
 }
